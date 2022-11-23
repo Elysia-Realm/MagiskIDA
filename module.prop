@@ -4,5 +4,5 @@ version=7.7.220118
 versionCode=77220118
 author=Elysia
 description=Runs ida-server on boot as root with magisk.
-support=https://github.com/qq57240/MagiskIDA/issues
+support=https://github.com/Elysia-Realm/MagiskIDA/issues
 minMagisk=1530
